@@ -12,3 +12,5 @@ git push git@github.com:michaelszymczak/gitsandboxsubtree.git library:master
 cd ..
 
 ```
+
+Edited on Github
